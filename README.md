@@ -1,0 +1,2 @@
+# adminLTE
+admin theme
